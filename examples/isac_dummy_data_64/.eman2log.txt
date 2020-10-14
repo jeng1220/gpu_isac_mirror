@@ -1,0 +1,2 @@
+2018/09/25 14:12:59	2018/09/25 14:12:59	 24530/    -2	gtxr3	/home/schoenf/applications/sphire/v1.1/bin/e2proc2d.py --rotate 180 stk3-aligned.spi bdb:faces
+2018/09/25 14:13:14	2018/09/25 14:13:14	 24534/    -2	gtxr3	/home/schoenf/applications/sphire/v1.1/bin/e2proc2d.py --rotate 180 stk64.spi bdb:faces
